@@ -1,3 +1,33 @@
+# 2-oji užduotis
+
+## v.1.1
+
+#### Pakitimai nuo V.10 versijos
+```diff
+| Anksčiau programoje naudotos struktūros pakeistos klasėmis.
+| Pašalinti visi veiksmai su list tipo konteineriu.
+```
+
+#### Programos spartos naudojant klases ir struktūras palyginimas
+
+| Duomenų kiekis | Naudojant klases | Naudojant struktūras |
+|      :---:     |      :---:       |        :---:         |
+| 1000           | 0.0010001        | 0.0029986            |
+| 10000          | 0.0147998        | 0.0390108            |
+| 100000         | 0.209604         | 0.534963             |
+| 1000000        | 2.17534          | 10.2035              |
+| 10000000       | 36.7102          | 113.453              |
+
+#### Programos spartos naudojant skirtingus flag'us palyginimas
+
+| Duomenų kiekis | O(1)             | O(2)                 | O(3)                 |
+|      :---:     |      :---:       |        :---:         |        :---:         |
+| 1000           | 0.0010872        | 0.0010016            | 0.0010069            |
+| 10000          | 0.0119977        | 0.0113037            | 0.0122402            |
+| 100000         | 0.16162          | 0.1625               | 0.169453             |
+| 1000000        | 2.09001          | 2.29413              | 2.26128              |
+| 10000000       | 28.1939          | 26.3513              | 26.8034              |
+
 # 1-oji užduotis
 
 ## Programos veikimo instrukcija
@@ -17,7 +47,7 @@ Vartotojo suteikiama galimybė rezultatus vesti ranka ar juos skaityti iš failo
     Išvedama lentelė su vector ir list konteinerių rusiavimo į dvi grupes greičiai, 2 skiringom strategijom
 ```
 
-## v0.1
+## v1.0
 
 #### Programos veikimo principo pakeitimai v0.1 versijoje:
 ```diff
