@@ -1,8 +1,15 @@
 # 2-oji užduotis
 
-## v.1.1
+## v1.2
 
-#### Pakitimai nuo V.10 versijos
+#### Pakitimai nuo V.1.1 versijos
+```diff
+| Realizuota "Rule of three"
+```
+
+## v1.1
+
+#### Pakitimai nuo V.1.0 versijos
 ```diff
 | Anksčiau programoje naudotos struktūros pakeistos klasėmis.
 | Pašalinti visi veiksmai su list tipo konteineriu.
