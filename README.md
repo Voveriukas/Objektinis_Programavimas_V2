@@ -1,8 +1,16 @@
 # 2-oji užduotis
 
+## v1.5
+
+#### Pakitimai nuo V1.2 versijos
+```diff
+| Sukurta nauja klasė Zmogus.
+| Studentas klasė dabar yra klasės Zmogus išvestinė klasė
+```
+
 ## v1.2
 
-#### Pakitimai nuo V.1.1 versijos
+#### Pakitimai nuo V1.1 versijos
 ```diff
 | Realizuota "Rule of three"
 ```
