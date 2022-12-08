@@ -1,5 +1,20 @@
 # 2-oji užduotis
 
+## v2.0
+
+#### Pakitimai nuo V1.5 versijos
+```diff
+| Sukurta Doxygen dokumentacija.
+```
+#### Naudojimosi instrukcija
+```yaml
+Vartotojo paklausiama ar šis studentų rezultatus nori skaičiuoti pagal namų darbų pažymių medianą ar vidurkį.
+Vartotojo paklausiama ar šis nori sugeneruoti naujus failus ar naudos esamus.
+Pasirinkus generavimą yra sugeneruojami 5 (1000, 10000, 100000, 1000000, 10000000 studentų) duomenų failai.
+Išvedama lentelė su vector konteinerių rusiavimo į dvi grupes greičiai.
+```
+
+
 ## v1.5
 
 #### Pakitimai nuo V1.2 versijos
