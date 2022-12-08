@@ -14,7 +14,6 @@ Pasirinkus generavimą yra sugeneruojami 5 (1000, 10000, 100000, 1000000, 100000
 Išvedama lentelė su vector konteinerių rusiavimo į dvi grupes greičiai.
 ```
 
-
 ## v1.5
 
 #### Pakitimai nuo V1.2 versijos
