@@ -4,7 +4,7 @@
 
 #### Pakitimai nuo V1.5 versijos
 ```diff
-| Sukurta Doxygen dokumentacija.
+| Sukurtas programos diegimo failas - setup.exe
 ```
 #### Naudojimosi instrukcija
 ```yaml
